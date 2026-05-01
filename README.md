@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Multi-Platform & Multi-Language Support
+Siogeen v2.0 provides a unified API for:
+* Python 3.x (Native)
+* MATLAB (via Python interface)
+* GNU Octave (via Python interface)
+
 <!--
 **siogeen/siogeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
